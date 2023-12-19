@@ -28,10 +28,6 @@ const FooterComponent = () => {
 			title: "Contact",
 			link: "/contact",
 		},
-		{
-			title: "Admin Dashboard",
-			link: "/admin",
-		},
 	];
 
 	const contactLinks = [
